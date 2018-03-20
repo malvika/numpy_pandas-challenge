@@ -2,7 +2,7 @@
 
 # Heroes of Pymoli 
 
-![alt text](http://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWAR201802DATA4-Class-Repository-DATA/raw/master/02-Homework/04-Numpy-Pandas/Instructions/Images/Fantasy.jpg "Fantasy")
+![GitHub Logo](/Fantasy.jpg)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. 
 You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
